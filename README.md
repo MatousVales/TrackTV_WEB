@@ -3,11 +3,11 @@ Track.tv is a mockup of a movie database. The app runs on top of remote Oracle D
 
 Screenshots:
 
-![Alt text](TrackTV_WEB/blob/master/profile.png?raw=true "Profile page with personalised statistics")
+![Alt text](profile.png?raw=true "Profile page with personalised statistics")
 
-![Alt text](TrackTV_WEB/blob/master/addshow.png?raw=true "Interface for manipulating with the movies/tv shows database")
+![Alt text](addshow.png?raw=true "Interface for manipulating with the movies/tv shows database")
 
-See [project_analysis.pdf](TrackTV_WEB/blob/master/project_analysis.pdf)  for a comprehensive analysis of of the project.
-See [procedures.pdf](TrackTV_WEB/blob/master/procedures.pdf) for implementation of the pl/sql procedures.
+See [project_analysis.pdf](project_analysis.pdf)  for a comprehensive analysis of of the project.
+See [procedures.pdf](procedures.pdf) for implementation of the pl/sql procedures.
 
 Only two views from the user interface are implemented. Connection to the database also works only when connected to the network of VŠB-TUO, since the server is currently stored there.
