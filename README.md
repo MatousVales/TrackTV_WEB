@@ -1,5 +1,5 @@
 # TrackTV
-Track.tv is a mockup of a movie database. The app runs on top of remote Oracle Database with most of the domain logic implemented in stored procedures. An ASP.NET web application is used as a client, with a custom ORM used to provide data consistency. The system was made as a semestral project for the Database and Information Systems class.
+Track.tv is a mockup of a movie database. The app runs on top of remote Oracle Database with most of the domain logic implemented in stored procedures. An ASP.NET web application is used as a client, with a custom ORM used to provide data consistency, which implements the Data Mapper pattern. The system was made as a semestral project for the Database and Information Systems class.
 
 Screenshots:
 
